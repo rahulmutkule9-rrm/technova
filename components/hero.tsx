@@ -27,7 +27,8 @@ export function Hero() {
           </span>
 
           <h1 className="mt-6 text-balance text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl md:text-6xl">
-            TechNova <span className="text-primary">2026</span>
+            Explore the Future of Technology with{' '}
+            <span className="text-primary">AI</span>
           </h1>
 
           <p className="mt-5 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
